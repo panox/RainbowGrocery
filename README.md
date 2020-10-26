@@ -1,6 +1,6 @@
 # Rainbow Grocerry Store
 
-Example ecomerce website using different technologies
+Example ecommerce website using different technologies
 
 MERN: Mongo, Express, React, Node
 
