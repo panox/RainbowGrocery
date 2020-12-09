@@ -3,4 +3,4 @@
 Example ecomerce built using different technologies
 
 MERN: Mongo, Express, React, Node
-AMP: Apache, MySql, Php
+AML: Apache, MySql, Laravel
